@@ -29,5 +29,5 @@ A lightweight Android app that instantly scans **UPI QR codes** and opens them i
 
 1. Clone the repo:
  `
- git clone https://github.com/your-username/UPI-Scanner-Widget.git
+ git clone https://github.com/eevee8340/UPI-Scanner-Widget.git
 `
