@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UPI Scanner Widget</string>
+    <string name="widget_description">Tap to scan UPI QR codes and pay instantly</string>
+</resources>
